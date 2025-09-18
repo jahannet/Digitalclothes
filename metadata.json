@@ -1,0 +1,5 @@
+{
+  "name": "مانکن دیجیتال (Digital Mannequin)",
+  "description": "یک اپلیکیشن وب برای پرو لباس به صورت مجازی. یک عکس از مدل و یک عکس از لباس را بارگذاری کنید تا هوش مصنوعی لباس را بر تن مدل قرار دهد. (A web application for virtual clothes try-on. Upload a photo of a model and a photo of a piece of clothing, and the AI will place the clothing on the model.)",
+  "requestFramePermissions": []
+}
